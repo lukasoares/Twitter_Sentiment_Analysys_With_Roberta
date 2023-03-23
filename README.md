@@ -21,3 +21,5 @@ Após a geração da Word Cloud, foi realizado um pré-processamento adicional d
 <h3>Conclusão</h3>
 A Word Cloud gerada a partir dos dados mostrou que os adjetivos positivos foram os mais mencionados. Porém, com a análise de sentimentos realizada, podemos concluir que as opiniões sobre "The Last of Us" estão bastante divididas, com opiniões positivas(20,78%) e negativas (19%) em proporções quase iguais, e a maioria dos comentários sendo neutros (60%).  Esta análise pode ser útil para entender melhor a percepção do público em relação à marca e, assim, tomar decisões mais informadas em futuras campanhas de marketing.
 
+
+

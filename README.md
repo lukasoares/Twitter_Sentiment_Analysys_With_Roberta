@@ -13,7 +13,7 @@ Para mais informações: https://huggingface.co/cardiffnlp/twitter-roberta-base-
 Foram extraídos aproximadamente 50.000 tweets utilizando a API do Twitter, com a query "the last of us" em inglês e postados entre os dias 16/03/2023 e 20/03/2023. Esses comentários foram estruturados em um DataFrame e pré-processados através de tokenização, remoção de stop words e caracteres especiais. Em seguida, foi aplicado um filtro para selecionar os adjetivos mais mencionados, a fim de obter uma melhor compreensão do sentimento das pessoas em relação à marca.
 <div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/110298606/227333588-d9f2bc52-7441-4b03-b566-8dca4c8d6b26.png" height="500px" style="display: inline-block;">
-  <img src="https://user-images.githubusercontent.com/110298606/227335216-20cb193f-b606-4f19-be0f-5eddea4c66e5.png" height="500px" width= 630px style="display: inline-block;">
+  <img src="https://user-images.githubusercontent.com/110298606/227335216-20cb193f-b606-4f19-be0f-5eddea4c66e5.png" height="500px" width= 650px style="display: inline-block;">
 </div>
 
 Após a geração da Word Cloud, foi realizado um pré-processamento adicional dos dados para aplicá-los ao modelo pré-treinado "Roberta". Isso envolveu a criação de uma nova coluna com os dados tratados, a tokenização, a vetorização e a aplicação dos dados no modelo. Os resultados foram colocados em um DataFrame, onde as previsões positivas representaram 20,78% dos comentários, as negativas 19% e as neutras 60%.

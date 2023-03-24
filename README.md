@@ -2,7 +2,7 @@
 Este projeto utilizou a API do Twitter para coletar cerca de 50.000 tweets sobre "The Last of Us" e, em seguida, aplicou técnicas de pré-processamento de texto, Word Cloud e análise de sentimento utilizando o modelo pré-treinado Roberta.
 
 <h2>Objetivo</h2>
-O objetivo deste projeto era ter uma melhor percepção do que as pessoas que assistiram ou jogaram "The Last of Us" estavam falando no Twitter poucos dias após o término da primeira temporada, utilizando Word Cloud e análise de sentimento utilizando um modelo pré-treinado chamado "Roberta".
+O objetivo principal deste projeto era obter uma compreensão mais profunda das opiniões das pessoas que assistiram "The Last of Us", em relação à primeira temporada, utilizando técnicas de visualização de dados, como a criação de Word Cloud, e análise de sentimento, por meio do modelo pré-treinado denominado "Roberta", a fim de fornecer insights sobre a recepção da série.
 
 <h2>Sobre o modelo "Roberta"</h2>
 
